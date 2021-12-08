@@ -1,5 +1,5 @@
 import Head from "next/head";
-import Footer from "../components/all/footer";
+import Footer from "../components/all/footer/index.tsx";
 import Header from "../components/all/header/index.tsx";
 import Hero from "../components/hero/index.tsx";
 
